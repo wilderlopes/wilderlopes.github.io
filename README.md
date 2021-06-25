@@ -1,4 +1,4 @@
-## Welcome
+## Introduction
 
 I am the co-founder and CTO of [Upstride](https://upstride.io), a startup that is [optimizing the performance of neural networks (NNs) via Geometric (Clifford) Algebras](https://wilder-lopes.medium.com/together-lets-unlock-the-full-potential-of-geometric-algebra-in-deep-learning-9450d250f8a8). As a co-founder and CTO, I am the one in charge of building the technical vision, improving the tech and product roadmap, and lead the tech/product teams. To this date we were able to raise over EUR 3 million, of which EUR 1.6 million comes from venture capital.
 
