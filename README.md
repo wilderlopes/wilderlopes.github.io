@@ -10,7 +10,7 @@ Reach out: [wil@openga.org](wil@openga.org)
 
 ### Links
 
-- [One-page CV](http://wilder.openga.org/wp-content/uploads/2021/06/Wilder_one-page_CV.pdf)
+- [One-page CV](http://wilder.openga.org/wp-content/uploads/2021/07/Wilder_one-page_CV.pdf)
 
 - [Full CV](http://wilder.openga.org/wp-content/uploads/2021/06/wilderlopes_CV.pdf)
 
