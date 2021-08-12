@@ -10,9 +10,9 @@ Reach out: [wil@openga.org](wil@openga.org)
 
 ### Links
 
-- [One-page CV](http://wilder.openga.org/wp-content/uploads/2021/07/Wilder_one-page_CV.pdf)
+- [One-page CV](https://wilder.openga.org/wp-content/uploads/2021/07/Wilder_one-page_CV.pdf)
 
-- [Full CV](http://wilder.openga.org/wp-content/uploads/2021/06/wilderlopes_CV.pdf)
+- [Full CV](https://wilder.openga.org/wp-content/uploads/2021/06/wilderlopes_CV.pdf)
 
 - [Openga project](https://openga.org) 
 
@@ -30,27 +30,27 @@ Reach out: [wil@openga.org](wil@openga.org)
 
 - **Lopes, Wilder B.**; Lopes, Cassio G. [Geometric-Algebra Adaptive Filters](https://ieeexplore.ieee.org/document/8712440). IEEE Transactions on Signal Processing, 2019
 
-- **Lopes, Wilder B.**; Al-Nuaimi, Anas; Lopes, Cassio G. [Geometric-Algebra LMS Adaptive Filter and its Application to Rotation Estimation](http://ieeexplore.ieee.org/document/7460183/). IEEE Signal Processing Letters, 2016.
+- **Lopes, Wilder B.**; Al-Nuaimi, Anas; Lopes, Cassio G. [Geometric-Algebra LMS Adaptive Filter and its Application to Rotation Estimation](https://ieeexplore.ieee.org/document/7460183/). IEEE Signal Processing Letters, 2016.
 
-- Al-Nuaimi, Anas; **Lopes, Wilder B.**; Steinbach, Eckehard; Lopes, Cassio G. [6DOF Point Cloud Alignment using Geometric Algebra-based Adaptive Filtering](http://ieeexplore.ieee.org/document/7477642/). IEEE WACV 2016 - Lake Placid, NY, USA.
+- Al-Nuaimi, Anas; **Lopes, Wilder B.**; Steinbach, Eckehard; Lopes, Cassio G. [6DOF Point Cloud Alignment using Geometric Algebra-based Adaptive Filtering](https://ieeexplore.ieee.org/document/7477642/). IEEE WACV 2016 - Lake Placid, NY, USA.
 
-- Al-Nuaimi, Anas; **Lopes, Wilder B.**; Zeller, Paul; Garcea, Adrian; Lopes, Cassio G.; Steinbach, Eckehard [Analyzing LiDAR Scan Skewing and its Impact on Scan Matching](http://ieeexplore.ieee.org/document/7743598/). IEEE IPIN 2016 - Madrid, Spain.
+- Al-Nuaimi, Anas; **Lopes, Wilder B.**; Zeller, Paul; Garcea, Adrian; Lopes, Cassio G.; Steinbach, Eckehard [Analyzing LiDAR Scan Skewing and its Impact on Scan Matching](https://ieeexplore.ieee.org/document/7743598/). IEEE IPIN 2016 - Madrid, Spain.
 	
-- **Lopes, Wilder B.**; Lopes, Cassio G. [Incremental Combination of RLS and LMS Adaptive Filters in Nonstationary Scenarios](http://ieeexplore.ieee.org/document/6638751/). IEEE ICASSP 2013 - Vancouver, Canada.
+- **Lopes, Wilder B.**; Lopes, Cassio G. [Incremental Combination of RLS and LMS Adaptive Filters in Nonstationary Scenarios](https://ieeexplore.ieee.org/document/6638751/). IEEE ICASSP 2013 - Vancouver, Canada.
 
-- Chamon, Luiz F. O.; **Lopes, Wilder B.**; Lopes, Cassio G. [Combination of Adaptive Filters with Coefficients Feedback](http://ieeexplore.ieee.org/document/6288741/). IEEE ICASSP 2012 - Kyoto, Japan.
+- Chamon, Luiz F. O.; **Lopes, Wilder B.**; Lopes, Cassio G. [Combination of Adaptive Filters with Coefficients Feedback](https://ieeexplore.ieee.org/document/6288741/). IEEE ICASSP 2012 - Kyoto, Japan.
 
-- **Lopes, Wilder B.**; Lopes, Cassio G. [Incremental-Cooperative Strategies in Combination of Adaptive Filters](http://ieeexplore.ieee.org/document/5947262/). IEEE ICASSP 2011 - Prague, Czech Republic.
+- **Lopes, Wilder B.**; Lopes, Cassio G. [Incremental-Cooperative Strategies in Combination of Adaptive Filters](https://ieeexplore.ieee.org/document/5947262/). IEEE ICASSP 2011 - Prague, Czech Republic.
 
 ### Videos
 
 - Geometric-Algebra Adaptive Filters for 3D Registration:
 
-[![Geometric-Algebra Adaptive Filters for 3D Registration](http://img.youtube.com/vi/TCSfBpSQpjg/0.jpg)](http://www.youtube.com/watch?v=TCSfBpSQpjg)
+[![Geometric-Algebra Adaptive Filters for 3D Registration](https://img.youtube.com/vi/TCSfBpSQpjg/0.jpg)](https://www.youtube.com/watch?v=TCSfBpSQpjg)
 
 - CanSat Rocket Launch in Noshiro, Japan:
 
-[![CanSat Rocket Launch in Noshiro, Japan](http://img.youtube.com/vi/YQM7zbW-uLw/0.jpg)](http://www.youtube.com/watch?v=YQM7zbW-uLw)
+[![CanSat Rocket Launch in Noshiro, Japan](https://img.youtube.com/vi/YQM7zbW-uLw/0.jpg)](https://www.youtube.com/watch?v=YQM7zbW-uLw)
 
 
 
