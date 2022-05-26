@@ -3,17 +3,17 @@ I am an entrepreneur, inventor, and research engineer based in Europe.
 
 I currently serve as Chief Architect for Machine Learning at Graphstax, a US-based company building
 neurosymbolic artificial intelligence (AI) products to leverage information buried deep in enterprise data. I am
-also the founder of [Ogarantia](ogarantia.com), an European deep-tech company bridging the gap between groundbreaking
+also the founder of [Ogarantia](https://ogarantia.com), an European deep-tech company bridging the gap between groundbreaking
 mathematical techniques and algorithm design to enable the deployment of robust AI in production.
 
-From 2018 to 2021 I was co-founder and CTO of [Upstride](upstride.io), a startup that [optimized the performance of
+From 2018 to 2021 I was co-founder and CTO of [Upstride](https://upstride.io), a startup that [optimized the performance of
 neural networks (NNs) via the use of Clifford (Geometric) Algebras](https://wilder-lopes.medium.com/together-lets-unlock-the-full-potential-of-geometric-algebra-in-deep-learning-9450d250f8a8). As CTO, I was in charge of building
 the technical vision, improving the tech and product roadmap, and lead the tech/product teams. Upstride
 raised over EUR 3 million, of which EUR 1.6 million from venture capital. In July 2021, Upstride was
 acquired by ContentSquare. 
 
 Before founding Upstride, I was an applied scientist (machine learning and signal
-processing) at [UCit](ucit.fr), where I was responsible for building their statistical-learning algorithms and software
+processing) at [UCit](https://ucit.fr), where I was responsible for building their statistical-learning algorithms and software
 for high-performance computing. In 2016 I earned a Ph.D. in Electronics Engineering (machine-learning and signal processing) from the
 University of Sao Paulo, Brazil, with a one year-long research period at the Technical University Munich (TU
 Munich), Germany. From 2016 to 2017, I was a Postdoc at Thales Research and Technology in Paris, France,
