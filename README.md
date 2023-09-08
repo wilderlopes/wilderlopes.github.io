@@ -4,17 +4,16 @@ I am an AI entrepreneur, inventor, and research engineer based in the USA (Tulsa
 since Feb 2023, but with a track record of success in Europe
 (France, Germany - from 2013 to 2023) and Brazil (born in 1985).
 
-- Check out my newest project: [Ogre](https://ogre.run), a metacompiler that analyzes
-source code to create the best runtime environment for it.
+- <img src="https://wilder.openga.org/assets/ogre-logo-with-icon.png" alt="drawing" width="90"/> Check out **my newest project: [Ogre](https://ogre.run)**, a metacompiler that analyzes source code to create the best runtime environment for it.
 
-- I have a small AI consulting business to work with select companies: [Ogarantia](https://ogarantia.com)
+- <img src="https://ogarantia.github.io/ogarantia_logoBlue_nameBlack.png" alt="drawing" width="80"/> I have a small **AI consulting business** to work with select companies: [Ogarantia](https://ogarantia.com)
 
-- Check out my previous startup [upstride](https://upstride.io). Founded in 2018, raised
-~EUR 3M and in 2021 was acquired by Content Square (Paris, France).
+- <img src="https://ww2.upstride.io/wp-content/uploads/2020/12/logoSvg.svg" alt="logoSvg" width="80"/> Check out **my previous startup [upstride](https://upstride.io)**. Founded in 2018, raised
+~EUR 3M and in 2021 was **acquired** by Content Square (Paris, France).
 
-- My Ph.D. Thesis: [Geometric-Algebra Adaptive Filters](https://teses.usp.br/teses/disponiveis/3/3142/tde-22092016-143525/publico/WilderBezerraLopesCorr16.pdf)
+- My **Ph.D.** Thesis: [Geometric-Algebra Adaptive Filters](https://teses.usp.br/teses/disponiveis/3/3142/tde-22092016-143525/publico/WilderBezerraLopesCorr16.pdf)
 
-- I like [Clifford Geometric Algebras and their potential for improving AI](https://wilder-lopes.medium.com/together-lets-unlock-the-full-potential-of-geometric-algebra-in-deep-learning-9450d250f8a8)
+- I like **[Clifford Geometric Algebras and their potential for improving AI](https://wilder-lopes.medium.com/together-lets-unlock-the-full-potential-of-geometric-algebra-in-deep-learning-9450d250f8a8)**
     - [Video ICACGA 2022](https://www.youtube.com/watch?v=zPVo3lcLzpI)
     - [White Paper](https://ww2.upstride.io/wp-content/uploads/2020/12/Upstride-doc.pdf)
     - [openga.org (archive)](https://openga.org)
